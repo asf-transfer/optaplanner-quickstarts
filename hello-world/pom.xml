@@ -12,7 +12,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <jar.with.dependencies.name>hello-world-run</jar.with.dependencies.name>
 
-    <version.org.optaplanner>10.0.999-SNAPSHOT</version.org.optaplanner>
+    <version.org.optaplanner>10.0.0</version.org.optaplanner>
     <version.org.assertj>3.24.2</version.org.assertj>
     <version.org.junit.jupiter>5.9.0</version.org.junit.jupiter>
     <version.org.logback>1.2.11</version.org.logback>
