@@ -8,7 +8,7 @@ on:
 
 jobs:
   nightly:
-    if: github.repository == 'kiegroup/optaplanner-quickstarts'
+    if: github.repository == 'apache/incubator-kie-optaplanner-quickstarts'
     concurrency:
       group: nightly
       cancel-in-progress: true
