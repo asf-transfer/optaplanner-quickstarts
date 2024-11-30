@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.optaplanner</groupId>
     <artifactId>optaplanner-build-parent</artifactId>
-    <version>10.0.999-SNAPSHOT</version>
+    <version>10.0.0</version>
     <relativePath/>
   </parent>
   <!-- IMPORTANT: the individual quickstarts have no parent pom. -->
